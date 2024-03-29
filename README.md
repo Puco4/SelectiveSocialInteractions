@@ -12,4 +12,4 @@ Files:
 
 - ```alignmentMap_nn_N=39.npy```: data of the experimental alignment force map used for simulations of the Explicit anti-alignment model.
 
-To run the code, it is necessary to create folders for output figures: `alig_Nn`, `atracRep_Nn`, and `sim`.
+To run the code and obtain the output figures, it is necessary to create in the same directory the folders: `alig_Nn`, `atracRep_Nn`, and `sim`.
