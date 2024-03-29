@@ -1,4 +1,4 @@
-# SelectiveSocialInteractions
+# Selective social interactions and speed-induced leadership in schooling fish
 
 This repository includes code to run the models and reproduce the figures from the research article:
 
