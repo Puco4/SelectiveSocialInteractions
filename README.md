@@ -8,6 +8,6 @@ Dependencies: Numpy, Scipy, [Rich library](https://github.com/Textualize/rich), 
 
 Files:
 
-- ```simulations.ipynb``` is the jupyter notebook with the code.
+- ```simulations.ipynb```: jupyter notebook with the code.
 
-- ```alignmentMap_nn_N=39.npy``` is the data of the experimental alignment force map used in the Explicit anti-alignment model.
+- ```alignmentMap_nn_N=39.npy```: data of the experimental alignment force map used for simulations of the Explicit anti-alignment model.
