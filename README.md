@@ -2,7 +2,7 @@
 
 This repository includes code to run the models and reproduce the figures from the research article:
 
-> Puy, A., Gimeno, E., Torrents, J., Bartashevich, P., Miguel, M. C., Pastor-Satorras, R., & Romanczuk, P. (2024). Selective social interactions and speed-induced leadership in schooling fish. Proceedings in the National Academy of Sciences. https://doi.org/XXX/pnas.XXX
+> Puy, A., Gimeno, E., Torrents, J., Bartashevich, P., Miguel, M. C., Pastor-Satorras, R., & Romanczuk, P. (2024). Selective social interactions and speed-induced leadership in schooling fish. Proceedings of the National Academy of Sciences, 121(18), e2309733121.
 
 Dependencies: Numpy, Scipy, [Rich library](https://github.com/Textualize/rich), Latex font.
 
